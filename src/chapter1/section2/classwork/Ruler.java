@@ -1,4 +1,4 @@
-package n1_Elements_of_Programming.n2_Builtin_Types_of_Data.classwork;
+package chapter1.section2.classwork;
 
 /******************************************************************************
  *  Compilation:  javac Ruler.java

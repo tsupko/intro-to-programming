@@ -1,4 +1,4 @@
-package n1_Elements_of_Programming.n1_Your_First_Program.classwork;
+package chapter1.section1.classwork;
 
 /******************************************************************************
  *  Compilation:  javac UseArgument.java
